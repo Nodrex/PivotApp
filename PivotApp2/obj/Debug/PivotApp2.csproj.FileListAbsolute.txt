@@ -21,3 +21,27 @@ C:\Users\Tamta\documents\visual studio 2012\Projects\PivotApp2\PivotApp2\obj\Deb
 C:\Users\Tamta\documents\visual studio 2012\Projects\PivotApp2\PivotApp2\Bin\Debug\AppManifest.xaml
 C:\Users\Tamta\documents\visual studio 2012\Projects\PivotApp2\PivotApp2\Bin\Debug\PivotApp2_Debug_AnyCPU.xap
 C:\Users\Tamta\documents\visual studio 2012\Projects\PivotApp2\PivotApp2\obj\Debug\XapCacheFile.xml
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\ApplicationIcon.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\PivotApp2.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\PivotApp2.pdb
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\AppManifest.xaml
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Properties\WMAppManifest.xml
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\PivotApp2_Debug_AnyCPU.xap
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Microsoft.Expression.Controls.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\Bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.csprojResolveAssemblyReference.cache
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\App.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\MainPage.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\SecondPivotPage.g.cs
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.g.resources
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.Resources.AppResources.resources
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.csproj.GenerateResource.Cache
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.dll
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\PivotApp2.pdb
+F:\Programs\My Programs and codes\chems mier dawerili programebi c shi\windows phone projects\PivotApp2.Last.bak\PivotApp2\obj\Debug\XapCacheFile.xml
